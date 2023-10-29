@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.rectangle {
+  background-color: #071689;
+  border-radius: 10px;
+  height: 449px;
+  width: 393px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.input-container {
+  background-color: #071269;
+  height: 52px;
+  width: 294px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.input-container input {
+  width: 100%;
+  padding: 5px;
+}
+
+.p {
+  text-align: center;
+}
+
+.user {
+  background-color: #2635A9;
+  height: 52px;
+  width: 52px;
+}
+.text {
+  color: white;
+  text-align: center;
+}
